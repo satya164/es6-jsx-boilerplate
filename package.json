@@ -54,7 +54,7 @@
     "koa-static": "^2.0.0",
     "koa-webpack-dev-middleware": "^1.1.0",
     "koa-webpack-hot-middleware": "^1.0.3",
-    "radium": "^0.16.6",
+    "radium": "^0.17.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-redux": "^4.3.0",
