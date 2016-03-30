@@ -24,7 +24,7 @@
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-eslint": "^5.0.0",
-    "babel-jest": "^6.0.1",
+    "babel-jest": "^10.0.1",
     "babel-loader": "^6.2.2",
     "babel-plugin-transform-react-constant-elements": "^6.3.13",
     "babel-plugin-transform-react-inline-elements": "^6.5.0",
