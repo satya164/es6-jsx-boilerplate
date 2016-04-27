@@ -49,7 +49,7 @@
     "eslint-plugin-import": "^1.5.0",
     "eslint-plugin-react": "^4.3.0",
     "flow-bin": "^0.23.0",
-    "jest-cli": "^11.0.1",
+    "jest-cli": "^12.0.1",
     "json-loader": "^0.5.4",
     "react-addons-test-utils": "^15.0.1",
     "redux-devtools": "^3.2.0",
