@@ -51,7 +51,7 @@
     "flow-bin": "^0.23.0",
     "jest-cli": "^11.0.1",
     "json-loader": "^0.5.4",
-    "react-addons-test-utils": "^15.0.1",
+    "react-addons-test-utils": "^15.0.2",
     "redux-devtools": "^3.2.0",
     "redux-devtools-dock-monitor": "^1.1.1",
     "redux-devtools-log-monitor": "^1.0.10",
